@@ -1,3 +1,3 @@
 # modulo-1-blue-2022
 
-First class using initial concepts of JavaScript
+First module for the web programming course of Blue EdTech.
