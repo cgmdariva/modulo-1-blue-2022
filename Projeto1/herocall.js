@@ -10,7 +10,7 @@ answer1 = prompt("Our hero enter to the cave with your sword in hands? Yes or No
 // No
 console.log("Our hero enter disarmed and a Goblin use your speed attack for hit him. But quickly the counter attack kill the Goblin.");
 // Yes
-console.log("Our hero enter armed in the cave and a Goblin use your speed attack for hit him, but the attack was easily defended.");
+console.log("Our hero enter armed in the cave and a Goblin use your speed attack for hit him, but the attack was easily defended and he kill the Goblin.");
 
 answer2 = prompt("After some steps inside the cave, he see a Spider with his back to him. Answer yes for the hero slowly approach the spider or no to attack it.");
 // No
